@@ -10,7 +10,7 @@ os.system('clear')
 os.system('neofetch')
 
 pares = [
-    ["Meu nome é (.*)", ["Oi %1, como posso ajudar?"]],
+    ["Meu nome é (.*)", ["Oi, como posso ajudar?"]],
     ["Qual é o seu nome?", ["Meu nome é Assistente ChatGPT."]],
     ["(.*) ajuda (.*)", ["Eu posso ajudar em muitas coisas. O que você precisa?"]],
     ["(.*) sua IA favorita?", ["Claro, eu sou a melhor!"]],
