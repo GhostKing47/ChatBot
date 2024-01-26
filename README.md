@@ -25,6 +25,9 @@ git clone https://github.com/GhostKing47/ChatBot.git
 cd ChatBot
 ```
 ```
-python3 Install.py
+python3 install.py
 ```
-
+Para executar o Script, usse:
+```
+python3 Chat.py
+```
