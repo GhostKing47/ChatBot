@@ -18,13 +18,13 @@ pkg install python
 ```
 
 ```
-git clone https://github.com/Zian25/UniTools-Termux
+git clone https://github.com/GhostKing47/ChatBot.git
 ```
 
 ```
-cd UniTools-Termux
+cd ChatBot
 ```
 ```
-python3 utx.py
+python3 Install.py
 ```
 
